@@ -1,4 +1,4 @@
-# Frontend Mentor - REST Countries API with color theme switcher solution
+# Frontend Mentor - REST Countries API - My First React JS Web App
 
 My first REACT JS app!!!
 
